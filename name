@@ -1,0 +1,7 @@
+nome = input("digite o seu nome: ")  #string > str > tem que ter áspas
+altura = float(input("digite a sua altura: "))  #ponto flutuante > float 
+idade = int(input("digite a sua idade: "))     #inteiro > int
+
+print ("Olá", nome)
+print ("sua altura é", altura)
+print ("e sua idade é", idade)
